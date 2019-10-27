@@ -8,5 +8,6 @@
  ],
  "display_name": "Python 3",
  "language": "python"
- "env": {"LD"LIBRARY_PATH": ":/srv/conda/envs/notebook/lib:/srv/conda/envs/notebook/hlhdf/lib:/srv/conda/envs/notebook/rave/lib:/srv/conda/envs/notebook/beamb/lib:/srv/conda/envs/notebook/bropo/lib:/srv/conda/envs/notebook/baltrad-wrwp/lib"}
+ "env": {"LD_LIBRARY_PATH":
+ ":/srv/conda/envs/notebook/lib:/srv/conda/envs/notebook/hlhdf/lib:/srv/conda/envs/notebook/rave/lib:/srv/conda/envs/notebook/beamb/lib:/srv/conda/envs/notebook/bropo/lib:/srv/conda/envs/notebook/baltrad-wrwp/lib"}
 }
